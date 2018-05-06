@@ -1,4 +1,4 @@
-package daniel.pentagram;
+package daniel.petagram;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

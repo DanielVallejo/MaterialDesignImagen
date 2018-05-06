@@ -1,4 +1,4 @@
-package daniel.pentagram;
+package daniel.petagram;
 
 import org.junit.Test;
 
